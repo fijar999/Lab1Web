@@ -1,4 +1,4 @@
-53d940de7c05" /># Praktikum 1: HTML Dasar - Pemrograman Web
+/># Praktikum 1: HTML Dasar - Pemrograman Web
 
 Repository ini dibuat untuk memenuhi tugas **Praktikum 1 Pemrograman Web** di **Universitas Pelita Bangsa**.
 
@@ -102,7 +102,8 @@ Hyperlink digunakan untuk menghubungkan halaman web internal, seperti `halaman2.
 ---
 <img width="698" height="161" alt="Screenshot 2026-09-23 190029" src="https://github.com/user-attachments/assets/8142869a-391b-4819-a029-936ddebc267b" />
 
-<img width="1262" height="816" alt="Screenshot 2026-09-23 190058" src="https://github.com/user-attachments/assets/15caefdd-60b5-4df8-8117-e0f6122e7146" />
+<img width="960" height="600" alt="Cuplikan layar 2026-09-24 124352" src="https://github.com/user-attachments/assets/aed7617c-8fd4-4e95-a668-ecd5e9bf18c1" />
+
 
 
 ## 8. Menambahkan List
