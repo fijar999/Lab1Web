@@ -1,4 +1,4 @@
-# Praktikum 1: HTML Dasar - Pemrograman Web
+<img width="960" height="600" alt="no6" src="https://github.com/user-attachments/assets/152d02f0-4c42-4c11-84ff-53d940de7c05" /># Praktikum 1: HTML Dasar - Pemrograman Web
 
 Repository ini dibuat untuk memenuhi tugas **Praktikum 1 Pemrograman Web** di **Universitas Pelita Bangsa**.
 
@@ -90,8 +90,8 @@ Gambar yang digunakan disimpan di dalam folder `images/`.
 ---
 <img width="797" height="81" alt="Screenshot 2026-09-23 185824" src="https://github.com/user-attachments/assets/ee238b45-e8bc-43cf-85d5-4d29fbdbfcdc" />
 
-<img width="1917" height="1103" alt="c:\Users\Fijar Ardhinugraha\Pictures\Screenshots\no6.png" src="https://github.com/user-attachments/assets/484a7f76-5ac6-46ee-bd1a-960821b464c9" />
 
+<img width="960" height="600" alt="no6" src="https://github.com/user-attachments/assets/16d4f6cc-dc9b-48c5-81d3-3b8d9ead65aa" />
 
 ## 7. Menambahkan Hyperlink
 
