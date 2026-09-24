@@ -116,7 +116,8 @@ Membuat daftar menggunakan dua jenis list HTML:
 ---
 <img width="802" height="315" alt="Screenshot 2026-09-23 190509" src="https://github.com/user-attachments/assets/9801cb9e-710a-49c5-8913-3fb998b64768" />
 
-<img width="1892" height="1128" alt="Screenshot 2026-09-23 195357" src="https://github.com/user-attachments/assets/17b029bd-6d46-4897-83cd-31c407ac9906" />
+<img width="960" height="600" alt="Cuplikan layar 2026-09-24 124517" src="https://github.com/user-attachments/assets/28b90cb7-85be-48fe-8db2-4fdfbaa488d5" />
+
 
 
 ## 9. Menambahkan Komentar
@@ -143,7 +144,7 @@ Seluruh elemen tersebut kemudian digunakan untuk membuat sebuah **halaman web pr
 
 <img width="1157" height="632" alt="Screenshot 2026-09-23 191046" src="https://github.com/user-attachments/assets/d30a01fd-417c-42b3-812c-56461212510d" />
 
-<img width="1892" height="1128" alt="Screenshot 2026-09-23 195357" src="https://github.com/user-attachments/assets/4c092bde-84a7-4072-a0fd-e4d5f96889a8" />
+<img width="960" height="600" alt="Cuplikan layar 2026-09-24 124517" src="https://github.com/user-attachments/assets/0d413f2c-0fb3-461b-8fb1-73d42be67fe0" />
 
 
 
